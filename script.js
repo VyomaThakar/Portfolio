@@ -1,7 +1,7 @@
 // typing
 
 var typed = new Typed(".typing",{
-    strings:["      ","Network Security","Software Developing"],
+    strings:["      ","Network Security","Sap abap developing"],
     typeSpeed:50,
     BackSpeed:50,
     loop:true
